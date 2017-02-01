@@ -1,0 +1,17 @@
+============ Disimpan pada Wed Jun 15 09:56:53 2016
+
+1. Nama kegiatan  : buber
+   Tempat kegiatan: ss
+   Tgl kegiatan   : 2-3-2016
+   Waktu          : 6:1
+   Orang yang terlibat
+	     1. loka
+
+2. Nama kegiatan  : rapat
+   Tempat kegiatan: kos
+   Tgl kegiatan   : 12-12-2016
+   Waktu          : 12:8
+   Orang yang terlibat
+	     1. loka
+	     2. cipo
+

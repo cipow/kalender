@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1464664143 source:g:\alpro\kalender_kegiatan\fungsi.c
+	"kepala_fungsi.h"
+
+1464663653 source:g:\alpro\kalender_kegiatan\main.c
+	"kepala_fungsi.h"
+
+1464664185 g:\alpro\kalender_kegiatan\kepala_fungsi.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1465829681 source:d:\new folder\tugas\alpro\kalender_kegiatan\fungsi.c
+	"kepala_fungsi.h"
+
+1465707476 d:\new folder\tugas\alpro\kalender_kegiatan\kepala_fungsi.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1465544399 source:d:\new folder\tugas\alpro\kalender_kegiatan\main.c
+	"kepala_fungsi.h"
+
